@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ArchesandCones.unity
     guid: 8fd1a551f0be64f24bde8623b442742a
+  - enabled: 1
+    path: Assets/Scenes/LowPolyProps.unity
+    guid: 6f062a7f33b3348a88af4647211723c1
   m_configObjects: {}
