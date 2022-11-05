@@ -17,4 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LowPolyProps.unity
     guid: 6f062a7f33b3348a88af4647211723c1
+  - enabled: 1
+    path: Assets/Scenes/TextureScene.unity
+    guid: 7ced75847b0f64e138450072a998896e
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: c7a67482ef33442eaaf7364c1ae6c4eb
   m_configObjects: {}
